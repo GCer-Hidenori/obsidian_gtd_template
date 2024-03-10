@@ -20,5 +20,5 @@
 # プロジェクト
 ```dataview
 TABLE
-WHERE gtd="project" AND pj_status != "done"
+WHERE gtd="project" AND project_status != "done"
 ```
