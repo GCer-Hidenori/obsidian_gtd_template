@@ -1,13 +1,13 @@
-# obsidian‚Å‚ÌGTDƒeƒ“ƒvƒŒ[ƒg
+# obsidianã§ã®GTDãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆ
 
-# •K—v‚È‚à‚Ì
-- Tasksƒvƒ‰ƒOƒCƒ“
-- DataViewƒvƒ‰ƒOƒCƒ“
+# å¿…è¦ãªã‚‚ã®
+- Tasksãƒ—ãƒ©ã‚°ã‚¤ãƒ³
+- DataViewãƒ—ãƒ©ã‚°ã‚¤ãƒ³
 
-# “±“ü
-- ƒŠƒ|ƒWƒgƒŠ‚ÌGTDƒtƒHƒ‹ƒ_‰º‚Ìƒtƒ@ƒCƒ‹ˆêŽ®‚ðƒ_ƒEƒ“ƒ[ƒh‚µAObsidian‚ÌVault“à‚Ì”CˆÓ‚ÌƒtƒHƒ‹ƒ_‚É“WŠJ
-- ƒŠƒ|ƒWƒgƒŠ‚ÌObsidian/TemplateƒtƒHƒ‹ƒ_‰º‚Ìgtd_templateƒtƒ@ƒCƒ‹ƒ_ƒEƒ“ƒ[ƒh‚µAObsidian‚Ìƒeƒ“ƒvƒŒ[ƒgƒvƒ‰ƒOƒCƒ“‚Ìƒeƒ“ƒvƒŒ[ƒgƒtƒHƒ‹ƒ_‚Ì‰º‚É“WŠJ
-- ƒŒƒrƒ…[‘Ò‚¿.md‚ðAƒeƒ“ƒvƒŒ[ƒgƒvƒ‰ƒOƒCƒ“‚Ìƒeƒ“ƒvƒŒ[ƒgƒtƒHƒ‹ƒ_‚É‡‚í‚¹‚Ä•ÒW
+# å°Žå…¥
+- ãƒªãƒã‚¸ãƒˆãƒªã®GTDãƒ•ã‚©ãƒ«ãƒ€ä¸‹ã®ãƒ•ã‚¡ã‚¤ãƒ«ä¸€å¼ã‚’ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã—ã€Obsidianã®Vaultå†…ã®ä»»æ„ã®ãƒ•ã‚©ãƒ«ãƒ€ã«å±•é–‹
+- ãƒªãƒã‚¸ãƒˆãƒªã®Obsidian/Templateãƒ•ã‚©ãƒ«ãƒ€ä¸‹ã®gtd_templateãƒ•ã‚¡ã‚¤ãƒ«ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã—ã€Obsidianã®ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã®ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆãƒ•ã‚©ãƒ«ãƒ€ã®ä¸‹ã«å±•é–‹
+- ãƒ¬ãƒ“ãƒ¥ãƒ¼å¾…ã¡.mdã‚’ã€ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã®ãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆãƒ•ã‚©ãƒ«ãƒ€ã«åˆã‚ã›ã¦ç·¨é›†  
 `(((gtd="project" AND project_status != "done" AND contains(file.folder,"Obsidian/Template") = false) OR gtd="waiting" or gtd="calendar")`
-- Šù‘¶ƒvƒƒWƒFƒNƒg‚ª‚ ‚éê‡‚ÍAgtd_projectƒeƒ“ƒvƒŒ[ƒg‚ð“±“ü‚·‚é
-	- I—¹‚µ‚Ä‚¢‚éƒvƒƒWƒFƒNƒg‚Ìê‡‚ÍA 
+- æ—¢å­˜ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆãŒã‚ã‚‹å ´åˆã¯ã€gtd_projectãƒ†ãƒ³ãƒ—ãƒ¬ãƒ¼ãƒˆã‚’å°Žå…¥ã™ã‚‹
+	- çµ‚äº†ã—ã¦ã„ã‚‹ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã®å ´åˆã¯ã€ project_statuså±žæ€§ã®å€¤ã‚’doneã«ã™ã‚‹
